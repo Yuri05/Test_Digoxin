@@ -1,6 +1,6 @@
 name: CrossRefCheck with Anchors
 
-on: pushon: 
+on: 
   [push, pull_request]
 
 jobs:
